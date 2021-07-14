@@ -7,7 +7,7 @@
 2) Clone this repo
   - `git clone git@github.com:roacobb/deckmark2.git`
 3) Question formatting
-  - There is a questions section located [here](https://github.com/roacobb/webdeckdw/blob/9aa3c3ee35ddf1181742f134139c6e26b6f5ac69/src/components/Main.js#L222
+  - There is a questions section located [here](https://github.com/roacobb/webdeckdw/blob/9aa3c3ee35ddf1181742f134139c6e26b6f5ac69/src/components/Main.js#L222)
   - Questions can be placed within paragraph tags for example: 
     ```
     ...
