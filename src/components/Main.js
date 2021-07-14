@@ -45,7 +45,7 @@ class Main extends React.Component {
             <ul>
                <li>Lean</li>
                   <ul>
-                    <li>Making data impacted decisions that fit orgination mission</li>
+                    <li>Making data impacted decisions that fit organization mission</li>
                     <li>Startups within a <a href="https://www.fastcompany.com/3041945/how-to-run-your-team-like-a-startup-even-when-youve-grown">startup</a>.</li>
                     <li>Shared responsibility</li>
                     <li>Service <a href="https://medium.com/openclassrooms-product-design-and-engineering/manage-a-tech-team-as-a-servant-leader-d04e055577b3">Leadership</a></li>
@@ -61,10 +61,10 @@ class Main extends React.Component {
             </ul>
           </p>
           <p>
-            The key to successful change is measuring and understanding the right things with a focus on capabilties, not maturity.
+            The key to successful change is measuring and understanding the right things with a focus on capabilities, not maturity.
           </p>
           <p>
-            Successful measurements of performance should have two key characteristics. First, it should focus on a global outcome to enusre teams are not pitted against each other.
+            Successful measurements of performance should have two key characteristics. First, it should focus on a global outcome to ensure teams are not pitted against each other.
           </p>
           {close}
         </article>
@@ -90,7 +90,7 @@ class Main extends React.Component {
                   </ul>
             </ul>
             <ul>
-               <li>Quarterly roadmaps</li>
+               <li>Quarterly road maps</li>
                   <ul>
                     <li>Frequent practice of using <a href="https://github.com/joelparkerhenderson/architecture-decision-record">ADR’s</a>, along with <a href="https://www.keka.com/engineering-team-okr-examples">OKR’s</a> and keeping all decisions transparent</li>
                     <li>Seamless collaboration with Product and data team</li>
@@ -141,7 +141,7 @@ class Main extends React.Component {
             <ul>
                <li>Accountability</li>
                   <ul>
-                    <li>Internal group of colleauges that meets quarterly to <a href="https://www.visier.com/clarity/hire-diverse-talent-workforce-analytics/">review progress.</a></li>
+                    <li>Internal group of colleagues that meets quarterly to <a href="https://www.visier.com/clarity/hire-diverse-talent-workforce-analytics/">review progress.</a></li>
                     <li>Establish key attainable goals for hiring and present to C suite.</li>
                   </ul>
             </ul>
@@ -173,7 +173,7 @@ class Main extends React.Component {
             <ul>
                <li>Inspirational Communication</li>
                   <ul>
-                    <li>We communicate in a way that inspries and motivates even in a challenging environment</li>
+                    <li>We communicate in a way that inspires and motivates even in a challenging environment</li>
                   </ul>
             </ul>
             <ul>
@@ -185,13 +185,13 @@ class Main extends React.Component {
             <ul>
                <li>Support</li>
                   <ul>
-                    <li>Demostrate that we promote civil and professional consideration of our colleauges needs and feelings</li>
+                    <li>Demonstrate that we promote civil and professional consideration of our colleagues needs and feelings</li>
                   </ul>
             </ul>
             <ul>
                <li>Recognition</li>
                   <ul>
-                    <li>Acknowledging achievement of goals and improvments in work quality, complimenting others when they do outstanding work</li>
+                    <li>Acknowledging achievement of goals and improvements in work quality, complimenting others when they do outstanding work</li>
                   </ul>
             </ul>
           <p>
