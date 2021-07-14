@@ -16,6 +16,10 @@
     </p>
     ...
     ```
+4) Finishing touches
+  - Create a new git branch & commit changes
+  - Push changes upstream & create a pull request
+  - Questions will be answered in the comment section of the pull request
 
 **Submitting questions via email**
 
