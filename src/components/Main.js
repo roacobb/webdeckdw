@@ -218,7 +218,7 @@ class Main extends React.Component {
             <img src={pic05} alt="" />
           </span>
           <p>
-            Follow the instructions from the Github repository <a href="#work">README</a> on how to format questions. 
+            Follow the instructions from the Github repository <a href="https://github.com/roacobb/webdeckdw#instructions-for-asking-questions">README</a> on how to format questions. 
           </p>
           {close}
         </article>
